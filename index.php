@@ -10,7 +10,7 @@
 <body style="background-color: rgb(200, 243, 243);">
   <nav class="navbar navbar-expand-lg navbar-light bg-light">
     <div class="container-fluid">
-        <a class="navbar-brand" href="index.html">
+        <a class="navbar-brand" href="index.php">
             <img src="Pictures\logo.jpg" alt="" width="30" height="24" class="d-inline-block align-top">
             Petworld
           </a>   
@@ -20,13 +20,13 @@
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
           <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="index.html">Home</a>
+            <a class="nav-link active" aria-current="page" href="index.php">Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="pets.html">Pets</a>
+            <a class="nav-link active" aria-current="page" href="pets.php">Pets</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="contact.html">Contact Us</a>
+            <a class="nav-link active" aria-current="page" href="contact.php">Contact Us</a>
           </li>
           </ul>
           <form class="d-flex">
@@ -36,8 +36,8 @@
                       Login
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                      <li><a class="dropdown-item" href="signup.html">Sign Up</a></li>
-                      <li><a class="dropdown-item" href="signin.html">Sign In</a></li>
+                      <li><a class="dropdown-item" href="signup.php">Sign Up</a></li>
+                      <li><a class="dropdown-item" href="signin.php">Sign In</a></li>
                     </ul>
             </ul>
         </form>
@@ -98,7 +98,7 @@
                     <div class="card-body">
                       <h5 class="card-title">Dogs</h5>
                       <p class="card-text">Dogs are the best friend of humans</p>
-                      <a href="pets.html" class="btn btn-primary">Search</a>
+                      <a href="pets.php" class="btn btn-primary">Search</a>
                     </div>
                   </div>
                 </div>
@@ -108,7 +108,7 @@
                     <div class="card-body">
                       <h5 class="card-title">Cat</h5>
                       <p class="card-text">Even cat are of great varieties</p>
-                      <a href="pets.html" class="btn btn-primary">Search</a>
+                      <a href="pets.php" class="btn btn-primary">Search</a>
                     </div>
                   </div>
                 </div>
@@ -118,7 +118,7 @@
                     <div class="card-body">
                       <h5 class="card-title">Fish</h5>
                       <p class="card-text">Some sea fishes are also domesticated</p>
-                      <a href="pets.html" class="btn btn-primary">Search</a>
+                      <a href="pets.php" class="btn btn-primary">Search</a>
                     </div>
                   </div>
                 </div>
@@ -129,7 +129,7 @@
                     <div class="card-body">
                       <h5 class="card-title">Bird</h5>
                       <p class="card-text">Love the birds </p>
-                      <a href="pets.html" class="btn btn-primary">Search</a>
+                      <a href="pets.php" class="btn btn-primary">Search</a>
                     </div>
                   </div>
                 </div>
